@@ -1,6 +1,7 @@
 ## Olá, sou Julieth Castiblanco, apaixonada na ciência de dados!
 
-- 💻 Atualmente estou aprendendo Python e Power Bi
+- 📈 Transformo dados em informação
+- 💻 Atualmente estou aprendendo Python
 - 🖊️ Entusiasta do Copy e a arte da persuação
 - 🤝 Busco colaborar em projetos de ciência de dados
 
@@ -17,4 +18,8 @@
 ### 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julieth.castiblancoq?igsh=MWp5dTF10GZwYnlkYg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julieth-castiblanco-9234b139/) 
+
+### 📑 Portfólio
+Quer conhecer meu trabalho em ciência de dados? Só clicar aqui
+
 
